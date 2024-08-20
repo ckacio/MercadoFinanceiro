@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\POV\MercadoFinanceiro\MercadoFinanceiro\bin\Debug\net8.0\MercadoFinanceiro.exe
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\POV\MercadoFinanceiro\MercadoFinanceiro\bin\Debug\net8.0\MercadoFinanceiro.deps.json
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\POV\MercadoFinanceiro\MercadoFinanceiro\bin\Debug\net8.0\MercadoFinanceiro.runtimeconfig.json
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\POV\MercadoFinanceiro\MercadoFinanceiro\bin\Debug\net8.0\MercadoFinanceiro.dll
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\POV\MercadoFinanceiro\MercadoFinanceiro\bin\Debug\net8.0\MercadoFinanceiro.pdb
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\POV\MercadoFinanceiro\MercadoFinanceiro\obj\Debug\net8.0\MercadoFinanceiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\POV\MercadoFinanceiro\MercadoFinanceiro\obj\Debug\net8.0\MercadoFinanceiro.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\POV\MercadoFinanceiro\MercadoFinanceiro\obj\Debug\net8.0\MercadoFinanceiro.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\POV\MercadoFinanceiro\MercadoFinanceiro\obj\Debug\net8.0\MercadoFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\POV\MercadoFinanceiro\MercadoFinanceiro\obj\Debug\net8.0\MercadoFinanceiro.dll
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\POV\MercadoFinanceiro\MercadoFinanceiro\obj\Debug\net8.0\refint\MercadoFinanceiro.dll
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\POV\MercadoFinanceiro\MercadoFinanceiro\obj\Debug\net8.0\MercadoFinanceiro.pdb
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\POV\MercadoFinanceiro\MercadoFinanceiro\obj\Debug\net8.0\MercadoFinanceiro.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\POV\MercadoFinanceiro\MercadoFinanceiro\obj\Debug\net8.0\ref\MercadoFinanceiro.dll
